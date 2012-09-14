@@ -9,6 +9,7 @@ As such they are all effectively forked from the original CSS created Jeremy Ash
 ### Themes
 
 #### DARK BACKGROUND
+- cobalt        [joeharris76](https://github.com/joeharris76)
 - desert        [uraimo](https://github.com/uraimo)
 - mustang       [uraimo](https://github.com/uraimo)
 - no_quarter    [uraimo](https://github.com/uraimo)
@@ -23,3 +24,7 @@ As such they are all effectively forked from the original CSS created Jeremy Ash
 #### LIGHT BACKGROUND
 - nuvola        [uraimo](https://github.com/uraimo)
 
+
+### TODO:
+- Split Docco CSS into a separate file and change Rocco template to reference both.
+- Implement a style switcher to allow a user to select a preferred theme (not gonna happen anytime soon…)
