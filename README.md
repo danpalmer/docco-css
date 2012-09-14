@@ -1,4 +1,4 @@
-# Pygments CSS Themes
+# Docco / Rocco CSS Themes
 
 Forked from [Uraimo's VIM styles work](https://github.com/uraimo/pygments-vimstyles)
 
